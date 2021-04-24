@@ -16,7 +16,9 @@ nav {
     text-align: center;
     align-items:center;
 }
-
+nav ul li{
+cursor:pointer;
+}
 nav .logo {
     width: 250px;
     font-size: 33px;
